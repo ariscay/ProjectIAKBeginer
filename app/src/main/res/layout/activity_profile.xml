@@ -31,7 +31,7 @@
             android:layout_height="wrap_content" />
         <TextView
             android:textSize="@dimen/text_14"
-            android:text="Tukang Ketik"
+            android:text="mahasiswa Bani saleh yang belum skripsian hahahha, cita' jadi Android Developer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </LinearLayout>
